@@ -1,11 +1,11 @@
 # RegistrosBuscados
-Es un sistemas que permite atrabes de una API , extraer los datos que esta obtenga, para la busqueda de dichas palabras calves o datos , digitadas por el usuario donde los resultados se mostraran en una tabla. 
+Es un sistema que permite atrabes de una API , extraer los datos que esta obtenga, para la busqueda de dichas palabras calves o datos , digitadas por el usuario donde los resultados se mostraran en una tabla. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
 
 ## Instalación 
-1. Entrar a tu navedador descargar e instalar node.js
-2. Entrar al cmd o simbolo del sistema
+1. Entrar a tu navedador descargar e instalar node.js.
+2. Entrar al cmd o simbolo del sistema.
 3. Instalar angular con el comando "npm install -g @angular/cli@latest", con esto instalado se puede generar proyectos de angular muy facil.
 4. Ingresmos a la ruta donde tenemos el proyecto ej: cd c:/prueba/prueba y le dan enter.
 5. ya estando dentro de la ruta, creamos el proyecto con el comando (ng new) , le damos enter y nos dice que le coloquemos un nombre al proyecto ej: prueba, le damos enter y nos dice que si queremos configurar el routing de angular a los cual responderias con "no" por que genera fallos , le damos enter y nos pregunta que formatos de estilo queremos dan varias obciones pero sale una  por defecto que es CSS la cual la dejaremos asi, le damos enter y muestra como agular genera toda la estructura del archivo y directorios basicos para empezar un proyecto.
